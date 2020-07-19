@@ -1,0 +1,24 @@
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov\obj\x86\Debug\K_var11_Levankov.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov\obj\x86\Debug\K_var11_Levankov.Main_F.resources
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov\obj\x86\Debug\K_var11_Levankov.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov\obj\x86\Debug\K_var11_Levankov.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\K_var11_Levankov\bin\Debug\K_var11_Levankov.exe
+d:\documents\visual studio 2010\Projects\K_var11_Levankov\bin\Debug\K_var11_Levankov.pdb
+d:\documents\visual studio 2010\Projects\K_var11_Levankov\obj\x86\Debug\K_var11_Levankov.exe
+d:\documents\visual studio 2010\Projects\K_var11_Levankov\obj\x86\Debug\K_var11_Levankov.pdb
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\obj\x86\Debug\K_var11_Levankov.exe
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\obj\x86\Debug\K_var11_Levankov.pdb
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\bin\Debug\K_var11_Levankov.exe
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\bin\Debug\K_var11_Levankov.pdb
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\obj\x86\Debug\K_var11_Levankov.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\obj\x86\Debug\K_var11_Levankov.Main_F.resources
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\obj\x86\Debug\K_var11_Levankov.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov - копия (16)\obj\x86\Debug\K_var11_Levankov.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\obj\x86\Debug\K_var11_Levankov.exe
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\obj\x86\Debug\K_var11_Levankov.pdb
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\bin\Debug\K_var11_Levankov.exe
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\bin\Debug\K_var11_Levankov.pdb
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\obj\x86\Debug\K_var11_Levankov.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\obj\x86\Debug\K_var11_Levankov.Main_F.resources
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\obj\x86\Debug\K_var11_Levankov.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\K_var11_Levankov_done\obj\x86\Debug\K_var11_Levankov.csproj.GenerateResource.Cache
